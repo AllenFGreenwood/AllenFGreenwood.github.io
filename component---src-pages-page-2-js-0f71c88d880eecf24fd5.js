@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{p5nM:function(e,n,t){"use strict";t.r(n);var a=t("mXGw"),c=t.n(a),l=t("Wbzz"),r=t("Bl7J"),u=t("vrFN");n.default=function(){return c.a.createElement(r.a,null,c.a.createElement(u.a,{title:"Payment Success"}),c.a.createElement("h1",null,"Sucess!"),c.a.createElement(l.Link,{to:"/"},"Shop again"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-js-0f71c88d880eecf24fd5.js.map
